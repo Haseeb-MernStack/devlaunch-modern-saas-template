@@ -5,7 +5,7 @@ Clean design, responsive layout, dark mode, animations — ready for startups, d
 
 🌐 Live Demo
 
-https://yourusername.github.io/devlaunch-modern-saas-template/
+https://haseeb-mernstack.github.io/devlaunch-modern-saas-template/
 
 ✨ Features
 
